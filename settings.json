@@ -1,6 +1,11 @@
 {
   "lastChangelogVersion": "0.73.0",
-  "packages": [],
+  "packages": [
+    "npm:context-mode",
+    "npm:pi-lens",
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:pi-mcp-adapter"
+  ],
   "defaultProvider": "manifest-v2",
   "defaultModel": "auto",
   "hideThinkingBlock": false,
