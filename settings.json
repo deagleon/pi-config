@@ -1,0 +1,8 @@
+{
+  "lastChangelogVersion": "0.73.0",
+  "packages": [],
+  "defaultProvider": "manifest-v2",
+  "defaultModel": "auto",
+  "hideThinkingBlock": false,
+  "defaultThinkingLevel": "high"
+}
